@@ -2,6 +2,7 @@ body {
     margin:0;
     padding:0;
     background-color:#f2f3ed;
+    font-family: "Open Sans";
 }
 
 .logo {
@@ -9,7 +10,6 @@ body {
 }
 
 .barbacode {
-    font-family: "Open Sans";
     font-size: 32px;
     color: #7D5104;
 }
@@ -32,10 +32,30 @@ a {
     color: #7D5104;
 }
 
+.menu li {
+    display: inline-block;
+    margin-right: 16px;
+}
+
 .landing-content {
     position: fixed;
     top: 40%;
     width: 100%;
     margin-top: -95px;
-    text-align: center";
+    text-align: center;
+}
+
+.top-content {
+    position: fixed;
+    top: 0%;
+    width: 100%;
+}
+
+.top-left {
+    font-size: 20px;
+    float: left;
+}
+
+.top-right {
+    float: right;
 }
