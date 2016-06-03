@@ -1,0 +1,41 @@
+body {
+    margin:0;
+    padding:0;
+    background-color:#f2f3ed;
+}
+
+.logo {
+    max-width: 120px;
+}
+
+.barbacode {
+    font-family: "Open Sans";
+    font-size: 32px;
+    color: #7D5104;
+}
+
+.space {
+    font-family: "Kaushan Script";
+    font-size: 24px;
+    margin-bottom: 60px;
+}
+
+p {
+    font-family: "Open Sans";
+    font-size: 16px;
+    color: #7D5104;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+a {
+    color: #7D5104;
+}
+
+.landing-content {
+    position: fixed;
+    top: 40%;
+    width: 100%;
+    margin-top: -95px;
+    text-align: center";
+}
