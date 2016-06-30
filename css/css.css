@@ -1,0 +1,108 @@
+body {
+    margin:0;
+    padding:0;
+    background-color:#f2f3ed;
+    font-family: "Open Sans";
+}
+
+p {
+    font-family: "Open Sans";
+    font-size: 16px;
+    color: #7D5104;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+a {
+    color: #7D5104;
+}
+
+h1 {
+    color: #7D5104;
+    margin-left: 20px;
+}
+
+ ul {
+    margin:20px;
+    padding:0;
+}
+
+ li {
+    display: inline-block;
+    margin-right: 16px;
+}
+
+li:last-child {
+    margin-right:0px;
+}
+
+.landing-content {
+    position: fixed;
+    top: 40%;
+    width: 100%;
+    margin-top: -95px;
+    text-align: center;
+}
+
+.landing-content .logo {
+    max-width: 120px;
+}
+
+.landing-content .barbacode {
+    font-size: 32px;
+    color: #7D5104;
+}
+
+.landing-content .space {
+    font-family: "Kaushan Script";
+    font-size: 24px;
+    margin-bottom: 60px;
+}
+
+.top-content {
+    min-height: 100px;
+}
+
+.top-content .logo {
+    max-width: 50px;
+    vertical-align: middle;
+    margin-right: 20px;
+}
+
+.name-container {
+    float: right;
+    text-align: center;
+}
+
+.top-left {
+    font-size: 20px;
+    float: left;
+    display: inline-block;
+}
+
+.top-right {
+    float: right;
+    display: inline-block;
+}
+
+.profile {
+    width: 250px;
+    display: inline-block;
+    margin: 20px;
+}
+
+.main-content {
+    padding: 40px;
+}
+
+.profile-pic {
+    width: 100%;
+}
+
+.images img {
+    width: 100%;
+}
+
+.images li {
+    margin-right:0;
+}
