@@ -1,0 +1,16 @@
+.miembro h3 {
+    margin-bottom: 6px;
+}
+
+.miembro h4 {
+    color: #999;
+}
+
+.miembro .style2 {
+    margin-right: 12px;
+    display: inline-block;
+}
+
+.pricing-container ul {
+    list-style: none;
+}
