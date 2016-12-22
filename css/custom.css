@@ -14,3 +14,16 @@
 .pricing-container ul {
     list-style: none;
 }
+
+
+@media (min-width: 800px) {
+    section.features {
+        width: 66%;
+        float: left;
+    }
+
+    section.pricing {
+        width: 33%;
+        float: left;
+    }
+}
