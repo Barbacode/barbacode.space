@@ -27,3 +27,24 @@
         float: left;
     }
 }
+
+ul.companies {
+    list-style:  none;
+    padding: 0;
+    margin: 0;
+}
+
+ul.companies li {
+    padding: 0;
+    margin: 0 15px;
+    display: inline;
+}
+
+ul.companies li.first {
+    margin: 0 15px 0 0;
+}
+
+ul.companies li a {
+    text-decoration: none;
+    border: 0;
+}
