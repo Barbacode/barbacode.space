@@ -15,7 +15,6 @@
     list-style: none;
 }
 
-
 @media (min-width: 800px) {
     section.features {
         width: 66%;
@@ -29,9 +28,13 @@
 }
 
 ul.companies {
-    list-style:  none;
+    list-style: none;
     padding: 0;
     margin: 0;
+}
+
+ul img {
+    vertical-align: middle;
 }
 
 ul.companies li {
